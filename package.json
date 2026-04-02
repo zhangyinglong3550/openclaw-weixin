@@ -53,7 +53,8 @@
       "npmSpec": "@tencent-weixin/openclaw-weixin",
       "defaultChoice": "npm",
       "minHostVersion": ">=2026.3.22"
-    }
+    },
+    "hooks":{}
   },
   "ilink_appid": "bot"
 }
